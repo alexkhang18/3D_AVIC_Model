@@ -1,0 +1,4 @@
+No. Elements Total: 28768
+No. Elements Gel: 18995
+No. Elements Cell: 6566
+No. Elements Nucleus: 3207
